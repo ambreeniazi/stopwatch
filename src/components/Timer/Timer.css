@@ -1,0 +1,19 @@
+.timer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   color: rgba(255, 130, 6, 0.986);
+   margin: 2rem 0;
+   height: 5%;
+}
+/* digits */
+.digits{
+    font-family: sans-serif;
+    font-size: 3rem;
+    
+}
+/* miliseconds */
+.mili-sec{
+color: rgb(52, 4, 187);
+}
