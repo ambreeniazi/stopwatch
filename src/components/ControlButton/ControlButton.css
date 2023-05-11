@@ -4,7 +4,7 @@
    align-items: center;
    box-sizing: border-box;
    width: 100%;
-   margin:3rem 0 ;
+   margin:3rem 0;
 
 }
 .btn-grp{
@@ -31,5 +31,6 @@
     background-color:rgb(201, 218, 218);
 }
 .btn-two{
-  background-color:rgb(201, 218, 218); ;
+  background-color:rgb(201, 218, 218); 
+  
 }
